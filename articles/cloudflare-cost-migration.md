@@ -1,17 +1,15 @@
-Title
-Vercel・Supabase・Resendが高い個人開発者が、Cloudflare中心の構成を検討した話
-
-Emoji
-☁️
-
-Type
-tech
-
-Topics
-cloudflare,vercel,supabase,個人開発,コスト
-
-Published
-true
+---
+title: "Vercel・Supabase・Resendが高い個人開発者が、Cloudflare中心の構成を検討した話"
+emoji: "☁️"
+type: "tech"
+topics:
+  - cloudflare
+  - vercel
+  - supabase
+  - 個人開発
+  - コスト
+published: true
+---
 
 Vercel + Supabase + Resend の料金がじわじわ気になってきた個人開発者向けの記事です。
 
